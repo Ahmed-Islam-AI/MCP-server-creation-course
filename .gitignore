@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 /uv.lock
+
+# Project-specific exclusions
+data search and fetch tool/
 /http_dump.txt
 /pyproject.toml
-/..python-version
+/.python-version
